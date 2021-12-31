@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@fake.com",
+      "password": "admin",
+      "phone": "9904439004"
+    },
+    {
+      "id": 2,
+      "name": "Ajay",
+      "email": "ajay@fake.com",
+      "phone": "9773149186"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "source": "Pune",
+      "destination": "Surat",
+      "from_date": "26-04-2022",
+      "to_date": "27-04-2022"
+    },
+    {
+      "id": 2,
+      "source": "Ahmedabad",
+      "destination": "bangalore",
+      "from_date": "22-01-2022",
+      "to_date": "23-01-2022"
+    }
+  ]
+}

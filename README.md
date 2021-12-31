@@ -12,7 +12,7 @@ An application used to show the list of reservations from state, built with Reac
 ## Installation and Setup Instructions
 
 Do clone for below url. 
-
+https://github.com/ajaykoli/react_assignment_ajaykoli.git
 
 You will need `node` and `npm` installed globally on your machine.
 
